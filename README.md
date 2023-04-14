@@ -9,6 +9,7 @@ Click on install button to install the app.
 ## Usage 
 This app create notes with or without an internet connection<br>
 SO THAT you can reliably retrieve them for later use
+![ScreenShot](./image.png)
 ## License
 MIT
 ## Questions
