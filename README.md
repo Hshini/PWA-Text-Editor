@@ -7,7 +7,7 @@ The application will also function offline.
 [Click-Here To Start](https://pwa-text-editor-11.herokuapp.com/)<br>
 Click on install button to install the app.
 ## Usage 
-This app create notes with or without an internet connection
+This app create notes with or without an internet connection<br>
 SO THAT you can reliably retrieve them for later use
 ## License
 MIT
